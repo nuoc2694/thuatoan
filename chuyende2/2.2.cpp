@@ -38,4 +38,3 @@ int main(){
     solutionC(n);
     return 0;
 }
-/*1 2 3 4 6 9 12 16 32*/
